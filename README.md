@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, я Иван (bedstor) 👋
 
-<!--
-**bedstor/bedstor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Backend-разработчик. Создаю логику и работаю с данными.
 
-Here are some ideas to get you started:
+- 🔭 Сейчас я работаю над: **Системой управления складом (Inventory Management System)**.
+- 🌱 Я изучаю: **FastAPI, асинхронный Python и проектирование БД**.
+- 🤔 Ищу помощи в: **Архитектуре веб-сервисов и работе с API**.
+- 💬 Спрашивайте меня о: **SQL-запросах, JOIN-ах и логике на Python**.
+- 🎯 Моя цель: **Поступление в ИТМО и разработка AI агентов**.
+- ⚡ Веселый факт: **Собрал рабочий склад с нуля за 5 дней, победив Гит и перебои с электричеством**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠 Стек:
+**Python | SQL | Git**
