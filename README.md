@@ -1,10 +1,10 @@
-# Hello, я Иван (bedstor) 👋
+# Hello, I'm Ivan (bedstor) 👋
 
-Я Python-разработчик. Занимаюсь созданием бэкенд-логики, проектированием баз данных и многим другим!
+I am a Python developer. I work on backend logic, database design, and much more!
 
-### 🛠 Стек технологий:
-- **Языки и библиотеки:** Python (ООП, requests, asyncio)
-- **Работа с данными:** SQL (SQLite), парсинг CSV / JSON / GeoJSON
-- **Визуализация:** Matplotlib, Plotly
-- **Инструменты:** Git / GitHub, VS Code, Cursor AI
+### 🛠 Tech Stack:
+- **Languages ​​& Libraries:** Python (OOP, requests, asyncio)
+- **Data Handling:** SQL (SQLite), CSV / JSON / GeoJSON parsing
+- **Visualization:** Matplotlib, Plotly
+- **Tools:** Git / GitHub, VS Code, Cursor AI
 
